@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/kevinkotcherga/react_bookstore/issues"
   },
-  "homepage": "https://github.com/kevinkotcherga/react_bookstore#readme"
+  "homepage": "https://github.com/kevinkotcherga/react_bookstore#readme",
+  "dependencies": {
+    "axios": "^0.25.0"
+  }
 }
